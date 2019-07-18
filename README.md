@@ -8,3 +8,5 @@ This paint application will:
 3. Be able to draw strokes with the pencil tool and set thickness. 
 4. Have a Colour Picker to choose from a vast variety of colours. 
 5. Use the Load button to load or import images from the system. 
+
+![paint mini](https://user-images.githubusercontent.com/40851916/61494829-ea440d00-a9d4-11e9-8e2d-788220e59c5d.png)
